@@ -1,0 +1,29 @@
+[[redirects]]
+  from = "https://your-subdomain.netlify.app/*"
+  to = "http://www.yourdomain.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://your-subdomain.netlify.app/*"
+  to = "http://www.yourdomain.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://yourdomain.com/*"
+  to = "http://www.yourdomain.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.yourdomain.com/*"
+  to = "http://www.yourdomain.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://yourdomain.com/*"
+  to = "http://www.yourdomain.com/:splat"
+  status = 301
+  force = true
