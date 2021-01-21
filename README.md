@@ -1,3 +1,3 @@
-# SEO Fragments
+# Jekyll Files
 
-Collection of site files, to help SEO.
+Collection of files to support jekyll site.
